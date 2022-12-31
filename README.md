@@ -2,8 +2,10 @@
 The REPOS for the client tutorial series
 
 # Schedule
-Episode 1 - Setting up the client - Planning<br/>
-Episode 2 - Keymap & SIGS - Planning<br/>
+Episode 1 - Setting up the client<br/>
+Episode 2 - Keymap & SIGS<br/>
+
+# Dynamic Schedule
 Episode 3 - Rendering shapes<br/>
 Episode 4 - ClientInstance<br/>
 Episode 5 - FontRepos<br/>
