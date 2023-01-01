@@ -8,6 +8,7 @@ Episode 2 - Keymap & SIGS<br/>
 # Dynamic Schedule
 Episode 3 - Rendering shapes<br/>
 Episode 4 - ClientInstance<br/>
-Episode 5 - FontRepos<br/>
+Episode 5 - FontRepos<br/>/>
 Episode 6 - GameMode & LocalPlayer<br/>
-Episode 7 - EntityList<br/>
+Episode 7 - Module base<br/>
+Episode 8 - EntityList<br/>
