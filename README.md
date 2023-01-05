@@ -10,7 +10,7 @@ Episode 3 - Rendering shapes<br/>
 Episode 4 - ClientInstance<br/>
 
 # Dynamic Schedule
-Episode 5 - FontRepos<br/>/>
+Episode 5 - FontRepos<br/>
 Episode 6 - GameMode & LocalPlayer<br/>
 Episode 7 - Module base<br/>
 Episode 8 - EntityList<br/>
