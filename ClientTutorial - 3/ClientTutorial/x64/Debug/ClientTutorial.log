@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+C:\Users\Yeemi\Desktop\Video\ClientTutorialPlans\ClientTutorial - 3\ClientTutorial\SDK\Utils.h(114): warning C4715: 'Utils::findSig': not all control paths return a value
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  ClientTutorial.vcxproj -> C:\Users\Yeemi\Desktop\Video\ClientTutorialPlans\ClientTutorial - 3\x64\Debug\ClientTutorial.dll
