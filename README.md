@@ -7,11 +7,9 @@ Episode 2 - Keymap & SIGS<br/>
 
 # Schedule
 Episode 3 - Rendering shapes<br/>
-Episode 5 - Debugging Utils (Console)<br/>
-Episode 6 - ClientInstance<br/>
-
-# Dynamic Schedule
-Episode 7 - Font (Not font repository tutorial..)<br/>
-Episode 8 - Module base<br/>
-Episode 9 - GameMode & LocalPlayer<br/>
-Episode 10 - EntityList<br/>
+Episode 4 - Debugging Utils (Console)<br/>
+Episode 5 - ClientInstance<br/>
+Episode 6 - Font (Not font repository tutorial..)<br/>
+Episode 7 - Module base<br/>
+Episode 8 - GameMode & LocalPlayer<br/>
+Episode 9 - EntityList<br/>
